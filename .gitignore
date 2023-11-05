@@ -1,0 +1,10 @@
+chaincode.env
+connection.json
+*.tar.gz
+*.tgz
+vendor/
+metadata.json
+README.md
+.dockerignore
+chaincode.env.example
+Dockerfile
